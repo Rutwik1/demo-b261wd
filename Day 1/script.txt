@@ -1,0 +1,37 @@
+1.  What is web ?
+
+--> Collection of informations which is stored when we ask the information is given.
+    To work on web and everything, we need a browser like Chrome, Firefox, Safari, Internet explorer, Opera.
+    Preffered browsers for developers are Chrome and Firefox.
+  
+  
+  
+2.  Statically Typed Languages -
+
+--> Statically typed languages perform type checking at compile time.
+    This means that you as the programmer must specify what is the type of each variable.
+    If a script written in a statically-typed language (such as Java) contains errors, it will fail to compile until the errors have been fixed.
+    The main advantage here is that all kinds of checking can be done by the compiler, and therefore a lot of trivial bugs are caught at a very early stage.
+    Examples: C, C++, Java, Rust, Go, Scala.
+    
+    
+    
+3.  Dynamically Typed Languages -
+
+--> Dynamically-typed languages perform type checking at runtime.
+    This means that you as a programmer can write a little quicker because you do not have to specify types every time.
+    This means that scripts written in dynamically-typed languages can compile even if they contain errors that will prevent the script from running properly.
+    Here you may find yourself searching for a bug that is due to the interpreter misinterpreting the type of a variable.
+    Luckily, scripts tend to be small so bugs have not so many places to hide.
+    Examples: Javascript, Python, Ruby, Perl, PHP, Erlang.
+    
+    
+    
+4.  Scripting Language -
+
+--> All scripting languages can be considered as programming languages,  which don't require an explicit compilation step.
+    JavaScript is a "scripting" language, you don't have to compile a JavaScript program before you run it.
+    The scripting languages like javascript, html & css are all script. so its only execute on browser only.
+    The programming languages like c, c++, java are all the kind of programming languages where we writes a code in a readable way which then it need to convert a permision and give a result.
+
+ 
