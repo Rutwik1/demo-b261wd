@@ -1,3 +1,4 @@
+
 1.  What is web ?
 
 --> Collection of informations which is stored when we ask the information is given.
