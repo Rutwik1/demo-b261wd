@@ -1,0 +1,26 @@
+ 
+ 1. Browser.js is used for frontend (client-side) applications.
+
+    Node.js is used for backend (server-side) applications.
+
+
+2.  In Browser.js, javascript gets executed in the browser only.
+
+    In Node.js, javascript code gets executed outside the browser as 
+    it is an interpreter as well as an environment for running javascript.
+
+
+3.  Browser.js is sandboxed for the safety purposes and have access limited to the browser.
+
+    Node.js has full system access i.e can read and write directly to the file system like 
+    any other application that also concludes that we can write complete software using Node.js.
+
+
+4.  Browser.js runs any engine like Spider monkey (Firefox), JavaScript Core (Safari), V8 (Google Chrome) accordingly to the browser.
+
+    Node.js runs in a V8 engine which is mainly used by google chrome.
+
+
+5.  In Browser.js, moduling is not mandatory.
+
+    In Node.js, everything is a module i.e it is mandatory to keep everything inside a module.
